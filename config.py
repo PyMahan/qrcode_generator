@@ -25,4 +25,4 @@ BANNER = '''
 
 -----------------------------------------------------------------------------
 
-ENTER THE STRING FOR CONVERT TO THE QRCODE : '''                                                                             
+ENTER THE STRING FOR CONVERT TO THE QRCODE (PRESS ESC AND ENTER TO EXIT) :'''                                                                             
